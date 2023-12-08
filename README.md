@@ -30,7 +30,7 @@
 <p align="left">2.Expert In React js,React Router,MongoDB,Tailwind css</p>
 <p align="left">3.Open-source advocate contributing to projects that make a positive impact on the developer community</p>
 <p align="left">4.I prefer ChatGpt If i Need help From Ai</p>
-<p align="left">5.I use Firebase,vercel,Netlify,Node Js,NPM,JWT></p>
+<p align="left">5.I use Firebase,vercel,Netlify,Node Js,NPM,JWT</p>
 
 <h2 align="left">My Last Three Projects:</h2>
 
