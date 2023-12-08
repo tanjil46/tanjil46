@@ -49,7 +49,9 @@
    <a href ="https://social-events-3507f.web.app/" target="_blank" rel="noreferrer">LIVE LINK</a>
 </p>
 
-<h3 align="left">My Current :</h3>
+<h3 align="left">My Current status :</h3>
+[![Current Status](https://img.shields.io/badge/current%20status-%3CCOMMIT_HASH%3E-blue)](https://github.com/tanjil46/tanjil46)
+
 
 
 
