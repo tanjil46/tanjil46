@@ -1,4 +1,4 @@
-![logo](https://github.com/tanjil46/tanjil46/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw%20(1).png)
+![logo](https://github.com/tanjil46/tanjil46/blob/main/1_b29pJKZqp6Jxb3rd9QlJiw%20(1)(1).jpg)
 
 <h1 align="center">Hi 👋, I'm Tanjil Hossain</h1>
 
