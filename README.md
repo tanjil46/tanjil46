@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tanjilt46@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1mE4dsLcK7tDf6jGq-F67D3fJuxkM5rsZ0GtWzjmcmhE/edit?usp=sharing](https://docs.google.com/document/d/1mE4dsLcK7tDf6jGq-F67D3fJuxkM5rsZ0GtWzjmcmhE/edit?usp=sharing)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1Y2_lIqreQsE6YQqpRHA4dEwbv6Wynu5f/view?usp=sharing)
 
 - ⚡ Fun fact **I do Coding in mY dream**
 
